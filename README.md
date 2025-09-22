@@ -1,5 +1,6 @@
 # TelegramTicTacToe
-<h1>Telegram Mini App for Tic-Tac-Toe with Python Bot integration. Built with HTML/CSS/JS. ❌ ⭕️</h1>
+<h1>Telegram Mini App for Tic-Tac-Toe ❌ ⭕️</h1>
+ with Python Bot integration. Built with HTML/CSS/JS.
 <h4>
 TelegramTicTacToe
 This project is a Telegram Mini App for the classic Tic-Tac-Toe (Doz) game, integrated with a Python bot. It features an engaging user interface with a blue theme, smooth animations, and score tracking. This project showcases skills in programming, web development, and Telegram API integration, making it ideal for technical resumes.
