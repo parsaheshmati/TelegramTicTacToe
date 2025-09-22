@@ -13,7 +13,9 @@ Smooth fade-in animations and hover effects on a blue gradient background.
 Random bot moves with a delay for a realistic feel (upgradable to Minimax algorithm).
 Score tracking (wins, losses, draws) stored using JSON.
 Deployed on an HTTPS server.
-<br>
+<br> 
+<br> 
+<br> 
 <img src="https://github.com/parsaheshmati/TelegramTicTacToe/blob/main/1.jpg" alt="TelegramApp">
 <br>
 
