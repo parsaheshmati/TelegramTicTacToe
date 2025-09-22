@@ -1,5 +1,5 @@
 # TelegramTicTacToe
-<h1>Telegram Mini App for Tic-Tac-Toe with Python Bot integration. Built with HTML/CSS/JS.</h1>
+<h1>Telegram Mini App for Tic-Tac-Toe with Python Bot integration. Built with HTML/CSS/JS. ❌ ⭕️</h1>
 <h4>
 TelegramTicTacToe
 This project is a Telegram Mini App for the classic Tic-Tac-Toe (Doz) game, integrated with a Python bot. It features an engaging user interface with a blue theme, smooth animations, and score tracking. This project showcases skills in programming, web development, and Telegram API integration, making it ideal for technical resumes.
@@ -15,7 +15,7 @@ Score tracking (wins, losses, draws) stored using JSON.
 Deployed on an HTTPS server.
 
 
-<h2>Technologies:</h2>
+<h2>Technologies: 💡 </h2>
 
 Python: For the bot using the pyTelegramBotAPI library.
 HTML/CSS/JavaScript: For the Mini App interface and game logic.
@@ -23,7 +23,7 @@ Telegram Web App API: For integrating the game with the bot.
 
 
 
-<h2>How to Run </h2>
+<h2>How to Run ❓ wwwwwwwwwwwwwsswww</h2>
 
 Prerequisites:
 
@@ -46,7 +46,7 @@ Use the /setmenubutton command in BotFather and enter the HTTPS URL of the Mini 
 
 
 
-<h2>Source Code </h2>  
+<h2>Source Code ⚜️ </h2>  
 
 <b>bot.py:</b> Contains the bot logic and score management.
 <b> index.html: </b> Holds the game interace and Tic-Tac-Toe logic.
