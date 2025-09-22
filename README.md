@@ -1,4 +1,3 @@
-# TelegramTicTacToe
 <h1>Telegram Mini App for Tic-Tac-Toe ❌ ⭕️</h1>
  with Python Bot integration. Built with HTML/CSS/JS.
 <h4>
