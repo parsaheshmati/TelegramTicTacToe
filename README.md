@@ -23,7 +23,7 @@ Telegram Web App API: For integrating the game with the bot.
 
 
 
-<h2>How to Run ❓ wwwwwwwwwwwwwsswww</h2>
+<h2>How to Run ❓  </h2>
 
 Prerequisites:
 
@@ -56,6 +56,16 @@ Development Opportunities
 <b> Add </b>  Features: Implement the Minimax algorithm for a smarter bot, add inline buttons for score display, or enhance the win animation with a line across winning cells.
 Multiplayer: Integrate WebSocket for two-player mode.
 Sound Effects: Add audio for clicks or win/loss events.
+
+
+<h2>Installation and Usage 🛠 </h2>
+
+Clone this repository:
+```bash
+git clone https://github.com/yourusername/TelegramTicTacToe.git
+```
+Upload index.html to your HTTPS server and update the URL in bot.py.
+Run the bot and enjoy the game!
 
 
 
