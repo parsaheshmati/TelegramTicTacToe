@@ -14,6 +14,7 @@ Random bot moves with a delay for a realistic feel (upgradable to Minimax algori
 Score tracking (wins, losses, draws) stored using JSON.
 Deployed on an HTTPS server.
 
+<img src="https://github.com/parsaheshmati/TelegramTicTacToe/blob/main/1.jpg" alt="TelegramApp">
 
 <h2>Technologies: 💡 </h2>
 
